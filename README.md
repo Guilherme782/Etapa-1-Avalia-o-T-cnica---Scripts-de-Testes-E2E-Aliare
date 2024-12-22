@@ -33,5 +33,5 @@ Certifique-se de ter o seguinte instalado:
 ## Configuração do Projeto
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/Guilherme782/Etapa-1-Avalia-o-T-cnica---Scripts-de-Testes-E2E-Aliare>
    cd bugbank-tests
